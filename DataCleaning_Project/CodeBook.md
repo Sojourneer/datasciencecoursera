@@ -1,4 +1,4 @@
-CodeBook for Course Projet of "Programming with R"
+CodeBook for Course Project of "Programming with R"
 ========================================================
 
 ## Raw Data
